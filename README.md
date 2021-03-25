@@ -1,10 +1,6 @@
 # Oh_my_Git_Aufgaben
 In dem Repository "Oh_my_Git_Aufgaben", werden Oh my Git Beispiel Aufgaben ins echte Leben übertragen
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Hier sind ein paar hilfreiche Commands:
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 git config -- global user.email <Email>
 git config -- global user.name <Name>
 
@@ -60,9 +56,9 @@ git clone
 Wie man Sachen mit git visualiziert:
 http://git-school.github.io/visualizing-git/#free
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 Wie wir das erstellt haben:
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 git clone https://github.com/Thomas910-Cheat/Oh_my_Git_Aufgaben
 cd Oh_my_Git_Aufgaben
 nano Test.txt
